@@ -25,7 +25,7 @@ Java
 
 Clone the repository and run the command:
 
-git clone <[github-url](https://github.com/ruebeniosdev/TrainSeatBookingSystem.git)>
+git clone <https://github.com/ruebeniosdev/TrainSeatBookingSystem.git>
 
 ### Running the Application
 
