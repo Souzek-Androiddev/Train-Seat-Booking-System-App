@@ -44,5 +44,6 @@ The system displays 20 seats and lets user select a seat number to book when a u
 - if the seat is already booked.
   if the system is availble the system marks it as booked and confirms it to the user. if not it gives back an error message .
 - the system prevents double booking by checking the array before assigning a seat.
-
+## 📋 Author
+Akankobateng Rueben Ansoliwen
 
