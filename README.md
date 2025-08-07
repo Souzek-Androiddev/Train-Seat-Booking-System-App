@@ -13,7 +13,7 @@ Live URL: []()
 - [📋 Approach](#-approach)
 - [📸 Screenshots](#-screenshots)
 - [🚀 Deployment](#-deployment)
-- [👤 Authors](#-authors)
+- [👤 Developers](#-developers)
 
 ## 🚀 Getting Started
 
@@ -112,7 +112,7 @@ The "Exit" option allows the user to leave the program. Here’s how it works:
 
         This approach makes the program user-friendly, giving the user full control over checking seat statuses and exiting when they are done!
 
-## 👤 Authors
+## 👤 Developers
 Akankobateng Rueben Ansoliwen
 
 Abdul Salim Sulemana
