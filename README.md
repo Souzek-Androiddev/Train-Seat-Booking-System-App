@@ -46,4 +46,5 @@ The system displays 20 seats and lets user select a seat number to book when a u
 - the system prevents double booking by checking the array before assigning a seat.
 ## 📋 Author
 Akankobateng Rueben Ansoliwen
+Abdul Salim Sulemana
 
