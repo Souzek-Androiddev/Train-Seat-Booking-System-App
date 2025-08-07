@@ -45,6 +45,31 @@ The system displays 20 seats and lets user select a seat number to book when a u
   if the system is availble the system marks it as booked and confirms it to the user. if not it gives back an error message .
 - the system prevents double booking by checking the array before assigning a seat.
 
+## 📋 Features
+
+1. View Seats:
+   - Users can view the status of all 20 seats (Available or Booked) at any time without booking.
+   - Helps users decide which seats to book.
+
+2. Book a Seat:
+   - Allows users to book any seat by entering a seat number between 1 and 20.
+   - Prevents double booking and validates seat numbers.
+
+3. Exit with Summary:
+   - Displays a summary of seat bookings, including:
+     - Total seats.
+     - Number of booked seats.
+     - Number of available seats.
+     - List of booked seat numbers.
+   - Exits the system gracefully.
+
+## 📋 Usage
+
+- Menu Options:
+  - Option 1: View current seat statuses.
+  - Option 2: Book a seat.
+  - Option 3: Exit the program.
+
 ## 📋 Explanation of "View Seats" Option
 
 The "View Seats" option allows the user to check the current status of all 20 seats at any time during the program.
