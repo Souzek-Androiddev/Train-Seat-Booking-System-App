@@ -2,7 +2,6 @@
 
 A CONSOLE JAVA APPLICATION
 
-Live URL: []()
 
 ## 📌 Table of Contents
 
